@@ -1,0 +1,19 @@
+{
+  "name": "tslint-config-lambdas",
+  "version": "1.0.0",
+  "repository": "git@github.com:WittBulter/tslint-config-lambdas.git",
+  "author": "WittBulter <lambdas.dev@gmail.com>",
+  "license": "MIT",
+  "main": "tslint.js",
+  "description": "TSlint for Lmabdas style",
+  "files": [
+    "tslint.js",
+    "README.md"
+  ],
+  "keywords": [
+    "tslint",
+    "lambdas"
+  ],
+  "devDependencies": {
+  }
+}
