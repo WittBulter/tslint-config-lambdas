@@ -10,13 +10,13 @@
 2. Usage in your `tslint.json`:
 
     ```json
-    { "extends": "lambdas" }
+    { "extends": "tslint-config-lambdas" }
     ```
 
     **OR**, if you are using the `tslint.yml`:
     ```yml
     extends:
-      - 'lambdas'
+      - 'tslint-config-lambdas'
     ```
 
 <br/>
