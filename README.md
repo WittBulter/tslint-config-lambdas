@@ -25,6 +25,8 @@
 
   - [eslint-config-lambdas](https://github.com/WittBulter/eslint-config-lambdas/)
 
+<br/>
+
 ### LICENSE
 
 **MIT**
