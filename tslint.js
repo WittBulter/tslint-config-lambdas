@@ -10,7 +10,7 @@ module.exports = {
       'allow-declarations',
     ],
     'prefer-for-of': true,
-    'typedef': [true, 'call-signature', 'parameter', 'member-variable-declaration'],
+    'typedef': [true, 'call-signature', 'parameter'],
     'eofline': true,
     'indent': 'spaces',
     'member-ordering': [
