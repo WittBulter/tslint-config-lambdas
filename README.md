@@ -23,8 +23,8 @@
 
 ### Recommends
 
-  - [eslint-config-lambdas](https://github.com/WittBulter/eslint-config-lambdas/)
-  - [eslint-config-ts-lambdas](https://github.com/WittBulter/eslint-config-ts-lambdas)
+  - [eslint-config-lambdas](https://github.com/unix/eslint-config-lambdas/)
+  - [eslint-config-ts-lambdas](https://github.com/unix/eslint-config-ts-lambdas)
 
 <br/>
 
